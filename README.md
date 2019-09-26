@@ -1,4 +1,6 @@
 # 21libftbeertest
+<h3>author : ggerardy</h3>
+
 check your 42 libft
 
 you need in your libft directory
